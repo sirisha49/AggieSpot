@@ -2,6 +2,8 @@
 
 **AggieSpots**is a web app that helps Texas A&M students quickly find open classrooms to study in. When the usual spots like libraries are crowded, it shows real-time availability of classrooms across campus, giving students more choices for quiet, productive study spaces.
 
+![TAMU Spots Mockup](Aggiespots-main/DemoImage.png)
+
 ## Features
 
 - Shows available classrooms across the Texas A&M campus.
